@@ -5,7 +5,7 @@ Top down 2D tile-scrolling tech demo made with SFML.
 ### Features
 * Basic 2D movement
 * Tile scrolling camera centered on player
-* FPS and UPS defferentiation with interpolation
+* FPS and UPS differentiation with interpolation
 * Basic zoom function
 
 ## Running
