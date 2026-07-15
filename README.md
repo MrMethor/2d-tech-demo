@@ -21,5 +21,4 @@ Top down 2D tile-scrolling tech demo made with SFML.
 * The project was built using [CLion](https://www.jetbrains.com/clion/) and [SFML 2.6.2](https://www.sfml-dev.org/download/sfml/2.6.2/)
 * The code includes a CMake file to ease the setup
 
-## License
-[MIT](https://github.com/MrMethor/game/blob/master/LICENSE)
+## [License](https://github.com/MrMethor/game/blob/master/LICENSE)
