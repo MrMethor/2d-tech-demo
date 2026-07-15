@@ -1,5 +1,5 @@
 ## Description
-Top down 2D tile-scrolling tech demo made with SFML.
+Top down 2D tile-scrolling tech demo made with [SFML](https://www.sfml-dev.org/).
 - Status - DISCONTINUED
 
 ### Features
